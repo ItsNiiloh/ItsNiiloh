@@ -5,7 +5,7 @@ Hey there! I'm José, a junior developer passionate about coding and eager to le
 ## About Me ℹ️
 I have experience working with various technologies, including:
 
-**Languages**: Python, JavaScript (including ES6+), HTML, CSS, SQL 🐍
+**Languages**: Python, JavaScript (including ES6+), HTML, CSS, SQL 🗣️
 
 **Frameworks/Libraries**: React ⚛️, Node.js 🚀
 
