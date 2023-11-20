@@ -1,4 +1,4 @@
-# Niiloh's Developer Portfolio 👨‍💻
+# Welcome to Niiloh's Developer Portfolio 👨‍💻
 
 Hey there! I'm José, a junior developer passionate about coding and eager to learn and grow in the world of software development. 👋
 
