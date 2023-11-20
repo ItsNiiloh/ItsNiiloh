@@ -7,7 +7,7 @@ I have experience working with various technologies, including:
 
 **Languages**: Python, JavaScript (including ES6+), HTML, CSS, SQL 🗣️
 
-**Frameworks/Libraries**: React ⚛️, Node.js 🚀
+**Frameworks/Libraries**: React ⚛️, Node.js 🚀, Tailwind CSS 💨
 
 **Version Control**: Git 🌳
 
