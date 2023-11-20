@@ -13,7 +13,7 @@ I have experience working with various technologies, including:
 
 
 ## Recent Project 🛠️
-Here is the most recent project I've worked on:
+**Here is the most recent project I've worked on:**
 
 ### TicTacToe
 **Description**: Collaborative project creating a simple TicTacToe game. Tasked with managing the DOM using Vanilla JavaScript, contributing to the game's interactivity and user interface. Collaborated with two other colleagues, each focusing on specific tasks to deliver a cohesive project.
