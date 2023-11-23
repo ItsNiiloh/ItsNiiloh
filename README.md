@@ -27,12 +27,7 @@ I have experience working with various technologies, including:
 I'm actively seeking opportunities to collaborate on exciting projects, contribute to open source, and gain valuable experience in the field. I'm open to internships, entry-level positions, or any chance to learn and grow as a developer.
 
 ## Contact Me 📫
-- **Email**: [Send me an Email](mailto:zeferreira1458@hotmail.com)
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/josé-ferreira-a85952227/)
-
-- **Portfolio Website**: [Work in Progress]
-
-Feel free to reach out if you'd like to connect, collaborate, or discuss potential opportunities!
+Feel free to reach out at [zeferreira1458@hotmail.com](mailto:zeferreira1458@hotmail.com)
 
 Looking forward to contributing and learning from the amazing developer community! 🚀🌟
