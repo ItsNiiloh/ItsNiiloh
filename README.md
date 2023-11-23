@@ -22,24 +22,6 @@ I have experience working with various technologies, including:
 
 **Live Demo**: [Live demo](https://tictactoe-t-prat.vercel.app)
 
-
-## Skills 🚀
-
-
-- **Python**: Proficient 🐍
-
-- **JavaScript**: Proficient 🔥
-
-- **HTML/CSS**: Proficient 🎨
-
-- **SQL**: Experienced 📊
-
-- **React**: Comfortable ⚛️
-
-- **Node.js**: Comfortable 🚀
-
-- **Git**: Experienced 🌳
-
 ## What I'm Looking For 🔍
 
 I'm actively seeking opportunities to collaborate on exciting projects, contribute to open source, and gain valuable experience in the field. I'm open to internships, entry-level positions, or any chance to learn and grow as a developer.
