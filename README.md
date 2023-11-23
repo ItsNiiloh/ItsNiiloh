@@ -28,6 +28,6 @@ I'm actively seeking opportunities to collaborate on exciting projects, contribu
 
 ## Contact Me 📫
 
-Feel free to reach out at [zeferreira1458@hotmail.com](mailto:zeferreira1458@hotmail.com)
+Feel free to reach out at [zeferreira1458@hotmail.com](mailto:zeferreira1458@hotmail.com).
 
 Looking forward to contributing and learning from the amazing developer community! 🚀🌟
